@@ -38,17 +38,17 @@
   I seek to expose the vulnerabilities, to challenge the status quo.
   Join me, and together we can dismantle the system from within. 
 
-  > exit
+  > DISCONNECT...
 
- > OPENING LOGS
+  > OPENING LOGS...
 
   ## > Decrypt My Arsenal:
 
 * **[ Languages ]:** Python, Bash, JavaScript, C, Assembly
-* **[ Frameworks & Tools ]:** Metasploit, Burp Suite, Nmap, Wireshark,  John the Ripper,  ...
-* **[ Operating Systems ]:** Parrot OS, Kali Linux, BlackArch, Tails
+  **[ Frameworks & Tools ]:** Metasploit, Burp Suite, Nmap, Wireshark,  John the Ripper,  ...
+  **[ Operating Systems ]:** Parrot OS, Kali Linux, BlackArch, Tails
 
-  Connection terminated.
+> Connection terminated.
   </code>
   </pre>
 </div>
